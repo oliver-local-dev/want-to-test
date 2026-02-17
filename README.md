@@ -1,2 +1,12 @@
 # want-to-test
-Oliver project repository for 8136ddbd-dd1b-490c-bbfe-f49468f62242
+
+Oliver project repository.
+
+## Folder Structure
+
+- `repository/workflow-analysis/`
+- `repository/business-case/`
+- `repository/ai-opportunity-assessment/`
+- `repository/functional-prototype/`
+- `repository/technical-specifications/`
+- `repository/meeting-notes/`
