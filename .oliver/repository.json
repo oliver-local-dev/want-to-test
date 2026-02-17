@@ -2,7 +2,7 @@
   "version": "1.0",
   "projectId": "8136ddbd-dd1b-490c-bbfe-f49468f62242",
   "createdAt": "2026-02-17T17:45:59.403Z",
-  "updatedAt": "2026-02-17T18:10:27.920Z",
+  "updatedAt": "2026-02-17T18:11:51.417Z",
   "files": [
     {
       "id": "1d5cca98-9ee3-497e-9e62-00e996412679",
@@ -39,8 +39,20 @@
       "createdAt": "2026-02-17T18:10:27.519Z",
       "updatedAt": "2026-02-17T18:10:27.519Z",
       "tags": []
+    },
+    {
+      "id": "fc757861-7eee-437e-99df-244786eb4651",
+      "name": "HSS26062-RURALCHHUB_rfp.pdf",
+      "path": "repository/technical-specifications/HSS26062-RURALCHHUB_rfp.pdf",
+      "folder": "technical-specifications",
+      "mimeType": "application/pdf",
+      "size": 961611,
+      "sha": "76f0da545a131b9aaac70cf6fc75a2fb97b9ca18",
+      "createdAt": "2026-02-17T18:11:51.017Z",
+      "updatedAt": "2026-02-17T18:11:51.017Z",
+      "tags": []
     }
   ],
   "externalLinks": [],
-  "storageUsed": 1036355
+  "storageUsed": 1997966
 }
