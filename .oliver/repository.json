@@ -2,8 +2,21 @@
   "version": "1.0",
   "projectId": "8136ddbd-dd1b-490c-bbfe-f49468f62242",
   "createdAt": "2026-02-17T17:45:59.403Z",
-  "updatedAt": "2026-02-17T17:45:59.403Z",
-  "files": [],
+  "updatedAt": "2026-02-17T17:57:48.623Z",
+  "files": [
+    {
+      "id": "1d5cca98-9ee3-497e-9e62-00e996412679",
+      "name": "industry-regulatory-tracking-architectures.md",
+      "path": "repository/business-case/industry-regulatory-tracking-architectures.md",
+      "folder": "business-case",
+      "mimeType": "application/octet-stream",
+      "size": 37372,
+      "sha": "a0617560eb5a12abd48fff047c01536e15ab5a6d",
+      "createdAt": "2026-02-17T17:57:48.262Z",
+      "updatedAt": "2026-02-17T17:57:48.262Z",
+      "tags": []
+    }
+  ],
   "externalLinks": [],
-  "storageUsed": 0
+  "storageUsed": 37372
 }
